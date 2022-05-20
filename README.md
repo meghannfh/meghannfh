@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+<img src="https://github.com/meghannfh/meghannfh/blob/main/githubcover2.png" align="center">
 <h1 align="center">Hi 👋, I'm Meghann</h1>
 <h3 align="center">I'm a Full-stack Software Engineer</h3>
 
