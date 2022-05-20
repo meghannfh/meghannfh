@@ -1,8 +1,5 @@
-![A banner](https://github.com/meghannfh/meghannfh/blob/main/githubcover1.png/200/300?style=centerme)
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
+![A banner]('https://github.com/meghannfh/meghannfh/blob/main/githubcover1.png')
+
 
 <h1 align="center">Hi 👋, I'm Meghann</h1>
 <h3 align="center">I'm a Full-stack Software Engineer</h3>
