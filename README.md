@@ -1,4 +1,3 @@
-![alt text](meghannfh/githubcover2.png)
 <h1 align="center">Hi 👋, I'm Meghann</h1>
 <h3 align="center">I'm a Full-stack Software Engineer</h3>
 
