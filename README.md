@@ -1,4 +1,4 @@
-<img align="center" src="meghannfh/githubcover1.png">
+<img align="center" src="https://github.com/meghannfh/meghannfh/blob/main/githubcover1.png" alt="megfdev banner">
 <h1 align="center">Hi 👋, I'm Meghann</h1>
 <h3 align="center">I'm a Full-stack Software Engineer</h3>
 
