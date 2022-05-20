@@ -8,8 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/megfdev" target="blank"><i class="uil uil-twitter-alt"></i></a>
-
 <a href="https://twitter.com/megfdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="megfdev" height="30" width="40"></a>
 <a href="https://linkedin.com/in/meghannfh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meghannfh" height="30" width="40" /></a>
 </p>
