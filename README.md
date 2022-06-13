@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Zelda encyclopedia using the BoTW API and HxH Encyclopedia APP**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, **Node**, **Express**, **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
