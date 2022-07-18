@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghann</h1>
 <h3 align="center">I'm a Full-stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **a Zelda encyclopedia using the BoTW API and HxH Encyclopedia APP**
+- 🔭 I’m currently working on **a Zelda encyclopedia using the BoTW API and Nagai City Garbage Seperation Resource**
 
 - 🌱 I’m currently learning **JavaScript**, **Node**, **Express**, **React**
 
