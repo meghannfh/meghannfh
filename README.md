@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghannfh&label=Profile%20views&color=0e75b6&style=flat" alt="meghannfh" /> </p>
 
-- 🔭 I’m currently working on **A Zelda BoTW Encyclopedia using the BoTW API, A Japanese garbage separation guide with MongoDB, and a client website**
+- 🔭 I’m currently working on **A Japanese garbage separation guide using MongoDB and a client website**
 
 - 🌱 I’m currently learning **JS, Express.js, React, Tailwind CSS**
 
