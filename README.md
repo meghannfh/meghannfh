@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghannfh&label=Profile%20views&color=0e75b6&style=flat" alt="meghannfh" /> </p>
 
-- 🔭 I’m currently working on **A Japanese garbage separation guide using MongoDB and a client website**
+- 🔭 I’m currently working on **a fullstack web app that allows users to post daily sketches and track their progress**
 
 - 🌱 I’m currently learning **JS, Express.js, React, Tailwind CSS**
 
