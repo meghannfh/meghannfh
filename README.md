@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meghann</h1>
-<h3 align="center">I'm a Full-stack Software Engineer</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghannfh&label=Profile%20views&color=0e75b6&style=flat" alt="meghannfh" /> </p>
 
