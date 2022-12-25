@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a fullstack web app that allows users to post daily sketches and track their progress**
 
-- 🌱 I’m currently learning **JS, Next.js, Express.js, React, Tailwind CSS**
+- 🌱 I’m currently learning **React, TailwindCSS, Python, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
