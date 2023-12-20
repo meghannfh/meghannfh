@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a fullstack web app that allows users to post daily sketches and track their progress**
 
-- 🌱 I’m currently learning **React + Redux, PostgreSQL, SCSS, Java**
+- 🌱 I’m currently learning **React + Redux, Java, TypeScript, SolidJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
